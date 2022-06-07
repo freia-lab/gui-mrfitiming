@@ -1,0 +1,6 @@
+# Editor-related
+*~
+.vscode
+
+# OS-related
+.DS_Store
